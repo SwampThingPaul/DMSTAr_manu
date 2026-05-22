@@ -15,7 +15,7 @@ Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
 
 ### `\Data\`
 
-- `dmsta_overallcase_all.csv`
+- `dmsta_overallcase_all.csv` **(file too large to include on Github)**
   - Overall DMSTA case results for each STA and project used in the
     evaluation
 - `dmsta_inputparams_all.csv`
@@ -24,7 +24,7 @@ Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
 - `dmstar_inputs.rds`
   - Input data used in DMSTA and DMSTAr simulations for each STA and
     project used in the evaluation
-- `dmstar_overallcase_all.csv`
+- `dmstar_overallcase_all.csv` **(file too large to include on Github)**
   - Overall DMSTAr case results for each STA and project used in the
     evaluation.
 - `dmsta_numstab.csv`
