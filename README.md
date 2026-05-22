@@ -1,11 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-Source code and essential data to support Julian et al. (YYYY) .
+<br> Source code and essential data to support Julian et al. (YYYY) .
 
-- Julian P, WW Walker, N Wang, D Surratt, (YYYY) DMSTAr: An R
-  implementation of the Dynamic Model for Stormwater Treatment Areas
-  (DMSTA) with verification against legacy applications
+<!-- - Julian P, WW Walker, N Wang, D Surratt, (YYYY) DMSTAr: An R implementation of the Dynamic Model for Stormwater Treatment Areas (DMSTA) with verification against legacy applications  -->
 
 Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
 
