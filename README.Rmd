@@ -1,0 +1,58 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+Source code and essential data to support Julian et al. (YYYY) .
+
+  - Julian P, WW Walker, N Wang, D Surratt, (YYYY) DMSTAr: An R implementation of the Dynamic Model for Stormwater Treatment Areas (DMSTA) with verification against legacy applications 
+
+Corresponding Author: Paul Julian (pjulian@evergladesfoundation.org)
+
+## File Structure
+`\DMSTAr_manu`
+
+### `\Data\`
+
+  * `dmsta_overallcase_all.csv`
+    * Overall DMSTA case results for each STA and project used in the evaluation
+  * `dmsta_inputparams_all.csv`
+    * Input parameters used in DMSTA and DMSTAr simulations for each STA and project used in the evaluation
+  * `dmstar_inputs.rds`
+    * Input data used in DMSTA and DMSTAr simulations for each STA and project used in the evaluation
+  * `dmstar_overallcase_all.csv`
+    * Overall DMSTAr case results for each STA and project used in the evaluation.
+  * `dmsta_numstab.csv`
+    * All numeric stability runs in one file for DMSTA
+  * `dmstar_numstab.csv`
+    * All numeric stability runs in one file for DMSTAr
+    
+
+
+### `\src\`
+
+  * `func.R`
+    * file with custom functions used in the analysis of data
+  * `dat_proc.R`
+    * Data accumulation and organization from the various DMSTA output files. 
+  * `dat_analyze.R`
+    * code used to read in data, format and perform analyses presented in manuscript. This does not include all data visualization or final visualization included in the final publications
+
+
+### `\Plots\`
+  
+  * Final plots used in manuscript
+  
+### `\_documents\`
+  
+  <!-- * place holder *submitted* -->
+  
+  * place holder *final accepted*

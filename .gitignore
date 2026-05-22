@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+DMSTAr_manu.Rproj
+
+/src/0_ProjectSetup.R
+
+# Files too large for github, dat_proc.R provides methods to download
+# publicly available data used in the analysis
+
+/Data/dmsta_overallcase_all.csv
+/Data/dmstar_overallcase_all.csv
