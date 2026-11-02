@@ -6,10 +6,13 @@
 
 DMSTAr_manu.Rproj
 
-/src/0_ProjectSetup.R
+/scripts/0_ProjectSetup.R
+/motivation-letter/
+/_documents/
 
 # Files too large for github, dat_proc.R provides methods to download
 # publicly available data used in the analysis
 
 /Data/dmsta_overallcase_all.csv
 /Data/dmstar_overallcase_all.csv
+

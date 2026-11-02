@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<br> Source code and essential data to support Julian et al. (YYYY) .
+<br> Source code and essential data to support manuscript.
 
 <!-- - Julian P, WW Walker, N Wang, D Surratt, (YYYY) DMSTAr: An R implementation of the Dynamic Model for Stormwater Treatment Areas (DMSTA) with verification against legacy applications  -->
 
@@ -13,7 +13,8 @@ Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
 
 ### `\Data\`
 
-- `dmsta_overallcase_all.csv` **(file too large to include on Github)**
+- `dmsta_overallcase_all.csv` **(file too large to include on Github;
+  see <https://doi.org/10.6084/m9.figshare.33197604>)**
   - Overall DMSTA case results for each STA and project used in the
     evaluation
 - `dmsta_inputparams_all.csv`
@@ -22,7 +23,8 @@ Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
 - `dmstar_inputs.rds`
   - Input data used in DMSTA and DMSTAr simulations for each STA and
     project used in the evaluation
-- `dmstar_overallcase_all.csv` **(file too large to include on Github)**
+- `dmstar_overallcase_all.csv` **(file too large to include on Github;
+  see <https://doi.org/10.6084/m9.figshare.33197604>)**
   - Overall DMSTAr case results for each STA and project used in the
     evaluation.
 - `dmsta_numstab.csv`
@@ -30,7 +32,7 @@ Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
 - `dmstar_numstab.csv`
   - All numeric stability runs in one file for DMSTAr
 
-### `\src\`
+### `\scripts\`
 
 - `func.R`
   - file with custom functions used in the analysis of data
@@ -41,13 +43,14 @@ Corresponding Author: Paul Julian (<pjulian@evergladesfoundation.org>)
   - code used to read in data, format and perform analyses presented in
     manuscript. This does not include all data visualization or final
     visualization included in the final publications
+- `bib_repair.R`
+  - file used to repair bib file for latex rendering
 
-### `\Plots\`
+### `\figures\`
 
 - Final plots used in manuscript
 
-### `\_documents\`
+### `\supplemental-material\`
 
-<!-- * place holder *submitted* -->
-
-- place holder *final accepted*
+- Supplemental material to support the publication, extra tables and
+  figures
