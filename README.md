@@ -1,7 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<br> Source code and essential data to support manuscript.
+<br>
+<!-- [![DOI](https://zenodo.org/badge/1246959308.svg)](https://doi.org/10.5281/zenodo.23885185) -->
+<a href="https://doi.org/10.5281/zenodo.23885185"><img src="https://zenodo.org/badge/1246959308.svg" alt="DOI"></a>
+
+Source code and essential data to support manuscript.
 
 <!-- - Julian P, WW Walker, N Wang, D Surratt, (YYYY) DMSTAr: An R implementation of the Dynamic Model for Stormwater Treatment Areas (DMSTA) with verification against legacy applications  -->
 
